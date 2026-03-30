@@ -34,3 +34,4 @@
 | Final Project Artifacts | [View](https://drive.google.com/drive/folders/1oPPGz_XRjRqeQvhdGwUutLZihlrJ2cre) |
 
 ## 🎓 Certificate Gallery
+![Certificate](certificates/certificate.png)
