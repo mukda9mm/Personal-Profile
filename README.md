@@ -1,26 +1,30 @@
-# 👋 My Personal Profile
-
-## 👤 About Me
-- Name: Mukda
-- Student: Computer Science
-- Interest: Backend / AI / Game
+# Personal Portfolio — Network & Systems 2025–2026
 
 ---
 
-## 🛠 Skills
-- Java
-- Python
-- SQL
-- OOP
+## Assignments
+
+| # | ชื่องาน | ไฟล์ / ลิงก์ |
+|---|--------|-------------|
+| 01 | Essay Link | [View](assignments/essay.pdf) |
+| 02 | Topology | [View](assignments/topology.pdf) |
+| 03 | Not_Simple | [View](assignments/not_simple.pdf) |
+| 04 | TCP-UDP | [View](assignments/tcp_udp.pdf) |
+| 05 | New Network | [View](assignments/new_network.pdf) |
 
 ---
 
-## 🚀 Projects
-### 🔹 Auto Farm Roblox Script
-- ระบบฟาร์มอัตโนมัติ
-- ใช้ Tween หลบ anti-cheat
+## Lab Reports
+
+| # | ชื่อแลป | ไฟล์ / ลิงก์ |
+|---|--------|-------------|
+| 01 | Lab 1 | [View](labs/lab1.pdf) |
+| 02 | Lab 2 | [View](labs/lab2.pdf) |
 
 ---
 
-## 📫 Contact
-- Email: your@email.com
+## Certificates
+
+| # | ชื่อใบประกาศ | ไฟล์ |
+|---|-------------|------|
+| 01 | Certificate 1 | [View](certificates/cert1.pdf) |
