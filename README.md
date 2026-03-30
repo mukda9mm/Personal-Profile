@@ -27,8 +27,8 @@
 
 ---
 
-## Certificates
+## 🎯 Final Project
 
-| # | ชื่อใบประกาศ | ไฟล์ |
-|---|-------------|------|
-| 01 | Certificate 1 | [View](certificates/cert1.pdf) |
+| ชื่อ | ไฟล์ / ลิงก์ |
+|-----|-------------|
+| Final Project Artifacts | [View](https://drive.google.com/drive/folders/1oPPGz_XRjRqeQvhdGwUutLZihlrJ2cre) |
