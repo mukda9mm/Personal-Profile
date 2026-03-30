@@ -16,10 +16,14 @@
 
 ## Lab Reports
 
+
 | # | ชื่อแลป | ไฟล์ / ลิงก์ |
 |---|--------|-------------|
-| 01 | Lab 1 | [View](labs/lab1.pdf) |
-| 02 | Lab 2 | [View](labs/lab2.pdf) |
+| 01 | Lab 1 | [View](https://drive.google.com/drive/u/1/folders/18JWLl4CJy-eJuvGQXekeR9wAq4cw1HNq) |
+| 02 | Lab 2 | [View](https://drive.google.com/drive/folders/1BuDrb8u9VPNYPeH4GvTZhz6AEp0nzd5K?usp=sharing) |
+| 03 | Lab 3 | [View](https://docs.google.com/document/d/1PgnwY3rc5Qfb6v9KoM1ZgSvfiQJa-G7kPhw7WoC2K7E/edit?usp=sharing) |
+| 04 | Lab 4 | [View](https://drive.google.com/drive/folders/1ZbR59MLNtRY9IdbO4LWLJmW33e-CL4pf?usp=sharing) |
+| 05 | Lab 5 | [View](https://docs.google.com/document/d/1o40w2faFCFvhBsA_uMX7aYOCZiXdERA7kt6VRhNwKYo/edit?usp=sharing) ||
 
 ---
 
