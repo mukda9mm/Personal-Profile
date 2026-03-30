@@ -24,7 +24,7 @@
 | 03 | Lab 3 | [View](https://docs.google.com/document/d/1PgnwY3rc5Qfb6v9KoM1ZgSvfiQJa-G7kPhw7WoC2K7E/edit?usp=sharing) |
 | 04 | Lab 4 | [View](https://drive.google.com/drive/folders/1ZbR59MLNtRY9IdbO4LWLJmW33e-CL4pf?usp=sharing) |
 | 05 | Lab 5 | [View](https://docs.google.com/document/d/1o40w2faFCFvhBsA_uMX7aYOCZiXdERA7kt6VRhNwKYo/edit?usp=sharing) ||
-
+| 06 | Lab 6 | [View](https://drive.google.com/drive/folders/1eWA_516fubLWK9AUgrL7isECgXFW-oqL?usp=sharing) |
 ---
 
 ## 🎯 Final Project
