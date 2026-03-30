@@ -6,10 +6,10 @@
 
 | # | ชื่องาน | ไฟล์ / ลิงก์ |
 |---|--------|-------------|
-| 01 | Essay Link | [View]([assignments/essay.pdf](https://docs.google.com/document/d/1b0LyhMlX6HGI0k02MHvJhoLSbzzAnmt_/edit?usp=sharing&ouid=110285540622919189517&rtpof=true&sd=true)) |
-| 02 | Topology | [View](assignments/topology.pdf) |
-| 03 | Not_Simple | [View](assignments/not_simple.pdf) |
-| 04 | TCP-UDP | [View](assignments/tcp_udp.pdf) |
+| 01 | Essay Link | [View](https://docs.google.com/document/d/1b0LyhMlX6HGI0k02MHvJhoLSbzzAnmt_/edit?usp=sharing) |
+| 02 | Topology | [View](https://docs.google.com/document/d/1EykpUCIqbyPv5jbnNJjjj0RmaCQm7iGi/edit?usp=sharing) |
+| 03 | Not_Simple | [View](https://drive.google.com/file/d/10-zQdCeJqNi7S8X77hr25KbxcB4VJdQ1/view?usp=sharing) |
+| 04 | TCP-UDP | [View](https://drive.google.com/file/d/1wf4yXhELTTXmxl-ph55HL7jAnWmwjIAH/view?usp=sharing) |
 | 05 | New Network | [View](assignments/new_network.pdf) |
 
 ---
