@@ -37,4 +37,4 @@
 
 ## 🎓 Certificate Gallery
 
-![Certificate](Getting_Started_with_Cisco_Packet_Tracer_certificate_mukda-b-kkumail-com_19760152-d519-4a1f-86f2-c72b505609e5)
+[📄 View Certificate](Getting_Started_with_Cisco_Packet_Tracer_certificate_mukda-b-kkumail-com_19760152-d519-4a1f-86f2-c72b505609e5.pdf)
