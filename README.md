@@ -33,5 +33,8 @@
 |-----|-------------|
 | Final Project Artifacts | [View](https://drive.google.com/drive/folders/1oPPGz_XRjRqeQvhdGwUutLZihlrJ2cre) |
 
+---
+
 ## 🎓 Certificate Gallery
-![Certificate](certificates/certificate.png)
+
+![Certificate](Getting_Started_with_Cisco_Packet.png)
